@@ -1,0 +1,86 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    text-decoration:none;
+}
+
+@font-face {
+    font-family: futura;
+    src: url("Content/Fonts/FuturaPTDemi.otf") format("opentype");
+}
+
+body {
+    background-image: url(Content/Images/circuits.jpg);
+    
+    
+}
+
+a {
+    color: white;
+}
+
+.title {
+    font-size: 50px;
+    font-family: futura;
+    color: azure;
+    position: 
+    
+    margin: 0 auto;
+    
+    width: 737px;
+    height: 200px;
+    text-align: center;
+    
+    padding-top: 270px;
+    padding-left: 592px;
+}
+
+.subtitle {
+    color: dimgrey;
+    font-size: 20px;
+    font-family: futura;
+    text-align: center;
+}
+
+.navbar {
+    width: 1920px;
+    height: 75px;
+    
+    position: fixed;
+    padding-bottom: px;
+    padding-top: px;
+    
+    
+    
+    background-color: black;
+    font-size: 30px;
+    font-family: futura;
+    color: azure; 
+    
+}
+
+.navlinks {
+
+    position: fixed;
+    width: 315px;
+    height: 30px;
+    text-align: center;
+    
+    margin-top: 19px;
+    margin-left: 83px;
+
+    
+}
+
+.navtitle {
+    position: fixed;
+    width: 208px;
+    height: 30px;
+    text-align: center;
+
+    
+    margin-top: 19px;
+    margin-left: 856px;
+    
+
+}
